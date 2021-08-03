@@ -2,7 +2,7 @@
 
 namespace asdasdasd
 {
-    class Program
+    class SwihchCase
     {
         static void Main(string[] args)
         {
